@@ -1,0 +1,1 @@
+proje açılırken compiler sürümü hatası veriyorsa projenin compiler sürümünü 21'den 18'e düşürüp açabilirsiniz
